@@ -26,3 +26,25 @@ uv sync
 **vscode**
 
 - Open the notebook and select the right kernel
+
+# Course Submission: submission_notebook.ipynb
+
+## Overview
+This repository contains the main notebook `submission_notebook.ipynb`, which includes all analyses, models, and results for the project.
+
+## Running the Notebook
+1. Open `submission_notebook.ipynb` in Jupyter Notebook.
+2. Run all cells sequentially.
+3. All outputs (plots, summaries, and results) will be saved in the `outputs` folder.
+
+## Outputs Folder Structure
+outputs/
+├── EDA/          # Exploratory Data Analysis plots and summaries
+├── ensemble/     # Ensemble model results
+├── model_1/      # Model 1 outputs
+├── model_2/      # Model 2 outputs
+└── summaries/    # Summaries of columns
+
+## Notes
+- All required dependencies are included in the notebook itself.
+- The notebook is self-contained; all steps from data loading to model evaluation are included.
