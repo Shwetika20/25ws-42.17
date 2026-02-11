@@ -38,6 +38,7 @@ This repository contains the main notebook `submission_notebook.ipynb`, which in
 3. All outputs (plots, summaries, and results) will be saved in the `outputs` folder.
 
 ## Outputs Folder Structure
+
 outputs/
 ├── EDA/          # Exploratory Data Analysis plots and summaries
 ├── ensemble/     # Ensemble model results
@@ -45,6 +46,7 @@ outputs/
 ├── model_2/      # Model 2 outputs
 └── summaries/    # Summaries of columns
 
-## Notes
+
+## Note
 - All required dependencies are included in the notebook itself.
 - The notebook is self-contained; all steps from data loading to model evaluation are included.
